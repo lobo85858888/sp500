@@ -1,5 +1,0 @@
-{
-  "deploy": {
-    "startCommand": "python SP500.py"
-  }
-}
